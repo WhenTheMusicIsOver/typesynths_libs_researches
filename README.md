@@ -2,7 +2,7 @@
 ## An music plugin for Ableton
 
 
-### JS Libraries
+## JS Libraries
 
 #### Elementary
 - https://www.elementary.audio/docs/
@@ -29,6 +29,7 @@
 
 #### Compusition
 - http://compusition.com/writings/js-live-api
+
 
 ## C++ Libraries
 
