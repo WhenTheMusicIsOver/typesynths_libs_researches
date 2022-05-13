@@ -1,5 +1,5 @@
 # TypeSynths PoC
-## An music plugin for Ableton
+## Researches on DSP, VST development, and music coding 
 
 
 ## JS Libraries
