@@ -11,3 +11,6 @@
 #### Magenta
 - https://magenta.tensorflow.org/
 
+#### Ableton.js
+- https://github.com/leolabs/ableton-js
+
