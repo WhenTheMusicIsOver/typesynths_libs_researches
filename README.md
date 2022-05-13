@@ -1,5 +1,5 @@
 # TypeSynths PoC
-## Researches on DSP, VST development, and music coding 
+## Researches on DSP, VST development, DAW automations, and music coding 
 
 
 ## JS Libraries
